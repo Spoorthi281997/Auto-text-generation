@@ -29,7 +29,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Clone
 Clone this repo to your local machine using -
 ```
-git clone git@github.com:Spoorthi281997/recommendation_system.git
+git@github.com:Spoorthi281997/Auto-text-generation.git
 ```
 ### Setup
 ```
@@ -40,7 +40,7 @@ conda create --name <env> --file requirements.txt
 Run [Auto Text Generator](https://github.com/Spoorthi281997/recommendation_system/blob/main/notebooks/content_based_filtering.ipynb) notebooks for the implementation of auto text generation.
 
 ## Resources 
-The proposed project implementation is based on blogpost in [Towards DataScience] (https://towardsdatascience.com/simple-text-generation-d1c93f43f340)
+The proposed project implementation is based on blogpost in [Towards DataScience](https://towardsdatascience.com/simple-text-generation-d1c93f43f340)
 
 
 Project Organization
