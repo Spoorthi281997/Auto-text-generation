@@ -37,7 +37,7 @@ conda create --name <env> --file requirements.txt
 ```
 
 ## Run
-Run [Auto Text Generator](https://github.com/Spoorthi281997/recommendation_system/blob/main/notebooks/content_based_filtering.ipynb) notebooks for the implementation of auto text generation.
+Run [Auto Text Generator](https://github.com/Spoorthi281997/Auto_Text_Generation/blob/main/Notebooks/Automatic_Text_Generator.ipynb) notebooks for the implementation of auto text generation.
 
 ## Resources 
 The proposed project implementation is based on blogpost in [Towards DataScience](https://towardsdatascience.com/simple-text-generation-d1c93f43f340)
